@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		51EF80FC2E3CE5A10060AAD1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 51EF80E32E3CE59F0060AAD1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 51EF80EA2E3CE59F0060AAD1;
+			remoteInfo = ThamanyaTask;
+		};
+		51EF81062E3CE5A10060AAD1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 51EF80E32E3CE59F0060AAD1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 51EF80EA2E3CE59F0060AAD1;
+			remoteInfo = ThamanyaTask;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		51EF80EB2E3CE59F0060AAD1 /* ThamanyaTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThamanyaTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		51EF80FB2E3CE5A10060AAD1 /* ThamanyaTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThamanyaTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		51EF81052E3CE5A10060AAD1 /* ThamanyaTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThamanyaTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		51EF80ED2E3CE59F0060AAD1 /* ThamanyaTask */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ThamanyaTask;
+			sourceTree = "<group>";
+		};
+		51EF80FE2E3CE5A10060AAD1 /* ThamanyaTaskTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ThamanyaTaskTests;
+			sourceTree = "<group>";
+		};
+		51EF81082E3CE5A10060AAD1 /* ThamanyaTaskUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ThamanyaTaskUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		51EF80E82E3CE59F0060AAD1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF80F82E3CE5A10060AAD1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF81022E3CE5A10060AAD1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		51EF80E22E3CE59F0060AAD1 = {
+			isa = PBXGroup;
+			children = (
+				51EF80ED2E3CE59F0060AAD1 /* ThamanyaTask */,
+				51EF80FE2E3CE5A10060AAD1 /* ThamanyaTaskTests */,
+				51EF81082E3CE5A10060AAD1 /* ThamanyaTaskUITests */,
+				51EF80EC2E3CE59F0060AAD1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		51EF80EC2E3CE59F0060AAD1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				51EF80EB2E3CE59F0060AAD1 /* ThamanyaTask.app */,
+				51EF80FB2E3CE5A10060AAD1 /* ThamanyaTaskTests.xctest */,
+				51EF81052E3CE5A10060AAD1 /* ThamanyaTaskUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		51EF80EA2E3CE59F0060AAD1 /* ThamanyaTask */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51EF810F2E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTask" */;
+			buildPhases = (
+				51EF80E72E3CE59F0060AAD1 /* Sources */,
+				51EF80E82E3CE59F0060AAD1 /* Frameworks */,
+				51EF80E92E3CE59F0060AAD1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				51EF80ED2E3CE59F0060AAD1 /* ThamanyaTask */,
+			);
+			name = ThamanyaTask;
+			packageProductDependencies = (
+			);
+			productName = ThamanyaTask;
+			productReference = 51EF80EB2E3CE59F0060AAD1 /* ThamanyaTask.app */;
+			productType = "com.apple.product-type.application";
+		};
+		51EF80FA2E3CE5A10060AAD1 /* ThamanyaTaskTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51EF81122E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTaskTests" */;
+			buildPhases = (
+				51EF80F72E3CE5A10060AAD1 /* Sources */,
+				51EF80F82E3CE5A10060AAD1 /* Frameworks */,
+				51EF80F92E3CE5A10060AAD1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				51EF80FD2E3CE5A10060AAD1 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				51EF80FE2E3CE5A10060AAD1 /* ThamanyaTaskTests */,
+			);
+			name = ThamanyaTaskTests;
+			packageProductDependencies = (
+			);
+			productName = ThamanyaTaskTests;
+			productReference = 51EF80FB2E3CE5A10060AAD1 /* ThamanyaTaskTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		51EF81042E3CE5A10060AAD1 /* ThamanyaTaskUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 51EF81152E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTaskUITests" */;
+			buildPhases = (
+				51EF81012E3CE5A10060AAD1 /* Sources */,
+				51EF81022E3CE5A10060AAD1 /* Frameworks */,
+				51EF81032E3CE5A10060AAD1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				51EF81072E3CE5A10060AAD1 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				51EF81082E3CE5A10060AAD1 /* ThamanyaTaskUITests */,
+			);
+			name = ThamanyaTaskUITests;
+			packageProductDependencies = (
+			);
+			productName = ThamanyaTaskUITests;
+			productReference = 51EF81052E3CE5A10060AAD1 /* ThamanyaTaskUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		51EF80E32E3CE59F0060AAD1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					51EF80EA2E3CE59F0060AAD1 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					51EF80FA2E3CE5A10060AAD1 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 51EF80EA2E3CE59F0060AAD1;
+					};
+					51EF81042E3CE5A10060AAD1 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 51EF80EA2E3CE59F0060AAD1;
+					};
+				};
+			};
+			buildConfigurationList = 51EF80E62E3CE59F0060AAD1 /* Build configuration list for PBXProject "ThamanyaTask" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 51EF80E22E3CE59F0060AAD1;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 51EF80EC2E3CE59F0060AAD1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				51EF80EA2E3CE59F0060AAD1 /* ThamanyaTask */,
+				51EF80FA2E3CE5A10060AAD1 /* ThamanyaTaskTests */,
+				51EF81042E3CE5A10060AAD1 /* ThamanyaTaskUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		51EF80E92E3CE59F0060AAD1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF80F92E3CE5A10060AAD1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF81032E3CE5A10060AAD1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		51EF80E72E3CE59F0060AAD1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF80F72E3CE5A10060AAD1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		51EF81012E3CE5A10060AAD1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		51EF80FD2E3CE5A10060AAD1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 51EF80EA2E3CE59F0060AAD1 /* ThamanyaTask */;
+			targetProxy = 51EF80FC2E3CE5A10060AAD1 /* PBXContainerItemProxy */;
+		};
+		51EF81072E3CE5A10060AAD1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 51EF80EA2E3CE59F0060AAD1 /* ThamanyaTask */;
+			targetProxy = 51EF81062E3CE5A10060AAD1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		51EF810D2E3CE5A10060AAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		51EF810E2E3CE5A10060AAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		51EF81102E3CE5A10060AAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ThamanyaTask/Preview Content\"";
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		51EF81112E3CE5A10060AAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ThamanyaTask/Preview Content\"";
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		51EF81132E3CE5A10060AAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTaskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThamanyaTask.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ThamanyaTask";
+			};
+			name = Debug;
+		};
+		51EF81142E3CE5A10060AAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTaskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThamanyaTask.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ThamanyaTask";
+			};
+			name = Release;
+		};
+		51EF81162E3CE5A10060AAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTaskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ThamanyaTask;
+			};
+			name = Debug;
+		};
+		51EF81172E3CE5A10060AAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4T2KZGQA8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thamanya.task.ThamanyaTaskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ThamanyaTask;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		51EF80E62E3CE59F0060AAD1 /* Build configuration list for PBXProject "ThamanyaTask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51EF810D2E3CE5A10060AAD1 /* Debug */,
+				51EF810E2E3CE5A10060AAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		51EF810F2E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51EF81102E3CE5A10060AAD1 /* Debug */,
+				51EF81112E3CE5A10060AAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		51EF81122E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTaskTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51EF81132E3CE5A10060AAD1 /* Debug */,
+				51EF81142E3CE5A10060AAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		51EF81152E3CE5A10060AAD1 /* Build configuration list for PBXNativeTarget "ThamanyaTaskUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				51EF81162E3CE5A10060AAD1 /* Debug */,
+				51EF81172E3CE5A10060AAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 51EF80E32E3CE59F0060AAD1 /* Project object */;
+}
